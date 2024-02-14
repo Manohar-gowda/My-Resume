@@ -1,0 +1,107 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+#about{
+    padding: 5%;
+}
+
+#experience{
+    padding: 5%;
+}
+#education{
+    padding: 5%;
+}
+#skills{
+    padding: 5%;
+}
+#contact{
+    padding: 5%;
+}
+#other-skills{
+    padding: 5%;
+}
+
+#h{
+    padding-top:2%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type:square;
+    margin: 2%;
+}
+
+li{
+    margin: 1%;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+footer a {
+    color: #bcaa96;
+}
+footer a:hover {
+    color: #e9f810;
+}
+
+footer li{
+    display: inline-block;
+    margin-right: 70px; 
+}
+
+.socials{
+    list-style-type: none;
+    text-align: center;
+    margin: 0%;
+}
+
+#experience a{
+    color: #fa8807;
+}
+/* Add more styles and customization as needed */
